@@ -1,4 +1,3 @@
-import { fromJS } from 'immutable';
 export function getListObject(array) {
     const  ImmutableList = list(array);
 }
